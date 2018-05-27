@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yann Verry <jetable@verry.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Jetable.org - A service provided by Apinc"
+msgstr ""
+
+# Menu
+msgid "Home"
+msgstr ""
+
+msgid "About jetable"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Frequently asked questions"
+msgstr ""
+
+#
+msgid ""
+"Jetable.org is a service provided by the APINC (Association for a Non-"
+"Commercial Internet) since june 2003."
+msgstr ""
+
+msgid "Administrative director: %s"
+msgstr ""
+
+msgid "Webmaster: %s"
+msgstr ""
+
+msgid "Graphical interface, CSS: %s"
+msgstr ""
+
+msgid "XHTML coding: %s"
+msgstr ""
+
+msgid "PHP coding (for the current version): %s"
+msgstr ""
+
+msgid "PHP coding (for the first version): %s"
+msgstr ""
+
+msgid "Server maintenance: %s"
+msgstr ""
+
+msgid ""
+"If you want to make any remark, collaboration proposition, gift or insults, "
+"the team is reachable at adm_@arobase_jetable.org (replace _@arobase_ with "
+"@)."
+msgstr ""
+
+msgid "faq"
+msgstr ""
+
+msgid " What is the principle of a disposable email address?"
+msgstr ""
+
+msgid " What's the use of a disposable email address?"
+msgstr ""
+
+msgid " Do you keep logs on this service?"
+msgstr ""
+
+msgid " Do you append ads to forwarded emails?"
+msgstr ""
+
+msgid "What is the principle of a disposable email address?"
+msgstr ""
+
+msgid ""
+"A disposable email address is a redirection towards your actual email "
+"address, and it has a limited lifespan. During all the time specified when "
+"you created it, emails sent to this address will be forwarded to your actual "
+"address."
+msgstr ""
+
+msgid "What's the use of a disposable email address?"
+msgstr ""
+
+msgid "A disposable email address can be used for several reasons."
+msgstr ""
+
+msgid ""
+"<li>You want to use a service on a web site that requires a confirmation "
+"through email, and you know that this site will sell your address to third "
+"parties; with a disposable email address, you can confirm the link that was "
+"sent, yet you won't receive any advertisement that would be sent afterwards."
+"</li> <li>You want to participate in a forum, and receive replies through "
+"email, yet you don't want your email address to be gathered by robots. Thus "
+"the robots will only get the disposable address, and after a while you won't "
+"receive any more ads.</li>"
+msgstr ""
+
+msgid "Do you keep logs on this service?"
+msgstr ""
+
+msgid "Yes, but for legal reasons only. No email address is going to be sold."
+msgstr ""
+
+msgid "Do you append ads to forwarded emails?"
+msgstr ""
+
+msgid ""
+"No. Jetable.org is a service provided by the french non-profit association "
+"APINC (Association for a Non-Commercial Internet), and the service is "
+"totally exempt of ads. This is why there are no banners on our web site "
+"either."
+msgstr ""
+
+msgid "Email address: "
+msgstr ""
+
+msgid "Life span: "
+msgstr ""
+
+msgid "One hour"
+msgstr ""
+
+msgid "One day"
+msgstr ""
+
+msgid "One week"
+msgstr ""
+
+msgid "One month"
+msgstr ""
+
+msgid "Create your disposable email address"
+msgstr ""
+
+msgid "How this service works"
+msgstr ""
+
+msgid ""
+"To avoid spam, jetable.org provides you with a temporary email address.\n"
+"As soon as it is created, all the emails sent to this address are forwarded "
+"to your actual email address.<br /><br />\n"
+"Your antispam address will be deactivated after the lifespan you selected "
+"comes to its end."
+msgstr ""
+
+msgid "IS NOT"
+msgstr ""
+
+msgid ""
+" an anonymous email service: email headers are not modified and we keep the "
+"logs of this service."
+msgstr ""
+
+msgid "Please select your language:"
+msgstr ""
+
+# confirm
+msgid "Invalid email address"
+msgstr ""
+
+msgid ""
+"The email address you have submitted looks invalid.<br />Your disposable "
+"email address could not be created."
+msgstr ""
+
+msgid "Error:"
+msgstr ""
+
+msgid " Too many aliases"
+msgstr ""
+
+msgid "You already have "
+msgstr ""
+
+msgid " aliases on "
+msgstr ""
+
+msgid ", your disposable email address could not be created."
+msgstr ""
+
+msgid "Invalid lifespan"
+msgstr ""
+
+msgid ""
+"The lifespan you submitted is invalid, your disposable email address could "
+"not be created."
+msgstr ""
+
+msgid " creation not possible"
+msgstr ""
+
+msgid ""
+"You cannot create a disposable email address that points to a disposable "
+"email address."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Your alias is "
+msgstr ""

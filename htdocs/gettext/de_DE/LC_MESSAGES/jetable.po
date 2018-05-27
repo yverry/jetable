@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: APINC\n"
+"POT-Creation-Date: 2013-09-10 19:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yann Verry <jetable@verry.org>\n"
+"Language-Team: APINC <devel@apinc.org>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/yverry/Documents/APINC/git/apinc-jetable/"
+"htdocs\n"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/footer.php:5
+msgid "A service provided by Apinc"
+msgstr "Ein angebotener Service des APINC."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/footer.php:10
+msgid "Please select your language:"
+msgstr "Bitte wählen Sie Ihre Sprache:"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/generatemail.php:84
+msgid "e-mail confirmation"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/generatemail.php:88
+msgid ""
+"Hi,\n"
+"To enable your jetable alias you need to follow this URL:\n"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/generatemail.php:92
+msgid ""
+"\n"
+"\n"
+"Best Regards\n"
+"Jetable.org team"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:8
+#, fuzzy
+msgid "Create jetable email address to avoid spam"
+msgstr "Temporäre E-Mailadresse erstellen!"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:42
+#, fuzzy
+msgid "Jetable.org - A service provided by Apinc"
+msgstr "Ein angebotener Service des APINC."
+
+# Menu
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:48
+msgid "Home"
+msgstr "Eingangsseite"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:49
+msgid "Faq"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:50
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:17
+msgid "Statistics"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:51
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:5
+msgid "About"
+msgstr "Über"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/header.php:52
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/ssl.php:5
+msgid "SSL"
+msgstr ""
+
+#
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:8
+msgid ""
+"Jetable.org is a service provided by the APINC (Association for a Non-"
+"Commercial Internet) since june 2003."
+msgstr ""
+"Jetable.org ist ein seit Juni 2003 angebotener Service des APINC "
+"(Association Pour l'Internet Non Commercial)."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:11
+#, php-format
+msgid "Administrative director: %s"
+msgstr "Leitung : %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:12
+#, php-format
+msgid "Webmaster: %s"
+msgstr "Webmaster: %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:13
+#, php-format
+msgid "Graphical interface, CSS: %s"
+msgstr "Grafische Oberfläche,, CSS: %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:14
+#, php-format
+msgid "PHP coding (for the current version): %s"
+msgstr "Code PHP (aktuelle Version): %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:15
+#, php-format
+msgid "PHP coding (for the first version): %s"
+msgstr "Code PHP (erste Version): %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:16
+#, php-format
+msgid "Server maintenance: %s"
+msgstr "Serverbetreuung: %s"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:19
+#, fuzzy
+msgid ""
+"If you want to make any remark, collaboration proposition, gift or insults, "
+"the team is reachable at support_@arobase_jetable.org (replace _@arobase_ "
+"with @)."
+msgstr ""
+"Für Hinweise, Kooperationsvorschläge, Spenden und Beschimpfungen steht ihnen "
+"das Jetable-Team zur Verfügung unter: adm_@klammeraffe_jetable.org (ersetzen "
+"Sie _@klammeraffe_ par @)."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/about.php:20
+#, fuzzy
+msgid ""
+"In case of abuse, write to abuse_@arobase_jetable.org (replace _arobase_ "
+"with @)."
+msgstr ""
+"Für Hinweise, Kooperationsvorschläge, Spenden und Beschimpfungen steht ihnen "
+"das Jetable-Team zur Verfügung unter: adm_@klammeraffe_jetable.org (ersetzen "
+"Sie _@klammeraffe_ par @)."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:11
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:18
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:27
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:37
+msgid "Error:"
+msgstr ""
+
+# confirm
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:11
+msgid "Invalid email address"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:13
+msgid ""
+"The email address you have submitted looks invalid.<br />Your disposable "
+"email address could not be created."
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:18
+msgid " Too many aliases"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:20
+msgid "You already have "
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:20
+msgid " aliases on "
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:20
+msgid ", your disposable email address could not be created."
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:27
+msgid "Invalid lifespan"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:29
+msgid ""
+"The lifespan you submitted is invalid, your disposable email address could "
+"not be created."
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:37
+msgid " creation not possible"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:39
+msgid ""
+"You cannot create a disposable email address that points to a disposable "
+"email address."
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:67
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/token.php:57
+msgid "Confirmation"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/confirm.php:69
+msgid "To authenticate your mail, a validation was sent"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:5
+msgid "Frequently asked questions"
+msgstr "F.A.Q. (Häufig gestellte Fragen)"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:8
+msgid " What is the principle of a disposable email address?"
+msgstr " Wie funktioniert eine Anti-Spam Emailadresse ? "
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:9
+msgid " What's the use of a disposable email address?"
+msgstr " Wozu dient eine Anti-Spam Emailadresse ?  "
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:10
+msgid " Do you keep logs on this service?"
+msgstr " Speichern Sie die Logfiles dieses Services ? "
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:11
+msgid " Do you append ads to forwarded emails?"
+msgstr " Fügen Sie Werbung in die umgeleiteten Emails ein ? "
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:15
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/ssl.php:8
+msgid "What is the principle of a disposable email address?"
+msgstr "Fügen Sie Werbung in die umgeleiteten Emails ein ?"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:16
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/ssl.php:9
+msgid ""
+"A disposable email address is a redirection towards your actual email "
+"address, and it has a limited lifespan. During all the time specified when "
+"you created it, emails sent to this address will be forwarded to your actual "
+"address."
+msgstr ""
+"Eine Anti-Spam Emailadresse ist eine temporäre Weiterleitungs-Emailadresse "
+"mit beschränkter Gültigkeitsdauer. Während der beim Erstellen der Anti-Spam "
+"Emailadresse festgelegten Gültigkeitsdauer erfolgt eine Weiterleitung der an "
+"diese Adresse gerichteten E-Mails zu ihrem eigentlichen Email-Postfach."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:18
+msgid "What's the use of a disposable email address?"
+msgstr "Wozu dient eine Anti-Spam Emailadresse ?"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:19
+msgid "A disposable email address can be used for several reasons."
+msgstr ""
+"So eine temporäre Emailadresse kann sich in mehren Fällen als nützlich "
+"erweisen."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:21
+msgid ""
+"<li>You want to use a service on a web site that requires a confirmation "
+"through email, and you know that this site will sell your address to third "
+"parties; with a disposable email address, you can confirm the link that was "
+"sent, yet you won't receive any advertisement that would be sent afterwards."
+"</li> <li>You want to participate in a forum, and receive replies through "
+"email, yet you don't want your email address to be gathered by robots. Thus "
+"the robots will only get the disposable address, and after a while you won't "
+"receive any more ads.</li>"
+msgstr ""
+"<li>Sie möchten einen Service einer Webseite nutzen, der bei ihrer "
+"Einschreibung sich über einen Bestätigungslink an die anzugebende Email "
+"absichert und wo sie wissen, dass ihre Email-Adresse an Dritte weiter "
+"verkauft werden darf : Mit einer temporären Anti-Spamadresse können sie die "
+"Bestätigungsmail erhalten ohne anschließend Empfänger von Werbemails zu sein."
+"</li><li>Sie möchten in ein Forum schreiben und Antworten per Email "
+"erhalten, ohne dass Suchmaschinen-Robots ihre Email erfassen können. Die "
+"Robots erhalten nur ihre Anti-Spam Emailadresse. Nach einer gewissen Zeit "
+"erhalten Sie also keine Werbung mehr. </li><li>Das selbe gilt natürlich auch "
+"für Newsgroups</li>"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:25
+msgid "Do you keep logs on this service?"
+msgstr "Speichern Sie die Logfiles dieses Dienstes?"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:26
+msgid "Yes, but for legal reasons only. No email address is going to be sold."
+msgstr ""
+"Ja, aus rechtlichen Gründen. Ihre Emailadresse wird nicht an Dritte "
+"weitergegeben."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:28
+msgid "Do you append ads to forwarded emails?"
+msgstr "Fügen Sie Werbung in die weitergeleiteten E-Mails ein ?"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/faq.php:29
+msgid ""
+"No. Jetable.org is a service provided by the french non-profit association "
+"APINC (Association for a Non-Commercial Internet), and the service is "
+"totally exempt of ads. This is why there are no banners on our web site "
+"either."
+msgstr ""
+"Nein. Jetable.org ist ein Service, angeboten von dem französischen Verein : "
+"APINC (Association Pour l'Internet Non Commercial - Verein für das "
+"nichtkommerzielle Internet) was bedeutet das der angebotene Service komplett "
+"werbefrei ist. Dies ist auch der Grund, weshalb sie auf unserer Webseite "
+"keine Werbebanner finden."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:8
+msgid "Email address: "
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:9
+msgid "Life span: "
+msgstr "Gültigkeitsdauer: "
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:12
+msgid "One hour"
+msgstr "Eine Stunde"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:13
+msgid "One day"
+msgstr "Ein Tag"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:14
+msgid "One week"
+msgstr "Eine Woche"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:15
+msgid "One month"
+msgstr "Ein Monat"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:18
+msgid "Create your disposable email address"
+msgstr "Temporäre E-Mailadresse erstellen!"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:26
+msgid "How this service works"
+msgstr "Funktionsprinzip"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:28
+msgid ""
+"To avoid spam, jetable.org provides you with a temporary email address.\n"
+"As soon as it is created, all the emails sent to this address are forwarded "
+"to your actual email address.<br /><br />\n"
+"Your antispam address will be deactivated after the lifespan you selected "
+"comes to its end."
+msgstr ""
+"Um Spam zu vermeiden, bietet Ihnen  \"jetable\" eine temporäre E-Mailadresse "
+"an. Diese Adresse leitet automatisch nach ihrer Erstellung alle Emails an "
+"ihre eigentliche E-Mailadresse weiter.<br/><br/>\n"
+"Ihre Anti-Spam Adresse wird nach Ablauf der eingestellten Gültigkeitsdauer "
+"automatisch deaktiviert."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:33
+msgid "Important"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:35
+msgid "NB:"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:35
+msgid "jetable.org"
+msgstr "jetable.org"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:35
+msgid "IS NOT"
+msgstr "IST KEIN"
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/index.php:35
+msgid ""
+"an anonymous email service: email headers are not modified and we keep the "
+"logs of this service."
+msgstr ""
+"dienst zur Anonymisierung ihrer Email: Der Emailheader der Nachrichten wird "
+"nicht verändert und die Benutzung des Services wird protokolliert (Logfile)."
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:14
+msgid "Stats"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:20
+#, php-format
+msgid "We have %d active aliases!"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:21
+#, php-format
+msgid "Today %d aliases were created"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:22
+#, php-format
+msgid "Today %d aliases were forwarded"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/stats.php:23
+#, php-format
+msgid "Today we rejected %d emails !!"
+msgstr ""
+
+#: /Users/yverry/Documents/APINC/git/apinc-jetable/htdocs/includes/pages/token.php:60
+msgid "Your alias is "
+msgstr ""
+
+#~ msgid "About jetable"
+#~ msgstr "Über jetable"
+
+#~ msgid "XHTML coding: %s"
+#~ msgstr "Code XHTML: %s"

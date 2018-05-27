@@ -1,0 +1,6 @@
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !\.tpl\.php|\.png|\.gif|\.jpg|\.jpeg|\.css|\.ico$
+RewriteRule (.*)     /templates/xhtml.tpl.php?page=$1&type=main [QSA]
+
