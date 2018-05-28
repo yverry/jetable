@@ -1,0 +1,60 @@
+# HTTP -> HTTPS
+server {
+
+    listen 80;
+    listen [::]:80;
+
+    server_name jetable.org www.jetable.org;
+
+    include include/acme-alias.conf;
+
+    location / {
+	    rewrite ^(.*)$ https://jetable.org;
+    }
+}
+
+# Jetable vhost
+server {
+
+    root /srv/www/jetable/htdocs/www;
+
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+    server_name jetable.org www.jetable.org;
+
+    include include/acme-alias.conf;
+    include include/ssl_jetable.conf;
+
+    error_page 403 /error/403.html;
+
+    access_log  /srv/logs/nginx/jetable.org.access.log custom;
+    error_log  /srv/logs/nginx/jetable.org.error.log;
+
+    # PHP7 config
+    location ~ \.php$ {
+        fastcgi_pass   unix:/var/run/php72-fpm_jetable.sock;
+        fastcgi_index  index.php;
+
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param SERVER_NAME $http_host;
+        fastcgi_param ENVIRONMENT "production";
+        fastcgi_ignore_client_abort on;
+    }
+
+    # expire image
+    location ~* \.(ico|css|js|gif|jpe?g|png)$ {
+	    expires max;
+	    break;
+    }
+
+    # main
+    location / {
+        if (!-f $request_filename) {
+            rewrite  ^/(.*)$  /index.php?arg=$1 last;
+            break;
+        }
+    }
+
+}
